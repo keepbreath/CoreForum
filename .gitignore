@@ -3,3 +3,7 @@
 ################################################################################
 
 /CoreForum.APP/obj
+/CoreForum.APP/.vs/CoreForum.APP/v16
+/CoreForum.Dto/obj
+/CoreForum.Utils/bin/Debug/netcoreapp3.1
+/CoreForum.Utils/obj
